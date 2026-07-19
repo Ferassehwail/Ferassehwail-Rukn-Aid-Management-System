@@ -1,0 +1,6 @@
+{
+  "name": "منصة الركن لإدارة وتسليم المساعدات الإنسانية",
+  "description": "منصة متكاملة لإدارة كشوفات توزيع المساعدات ومتابعة عمليات الاستلام وتتبع المستفيدين والتحقق الإلكتروني ومراسلات الواتساب.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
